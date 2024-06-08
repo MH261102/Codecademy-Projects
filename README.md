@@ -89,6 +89,6 @@ This project is a Python implementation of a unit converter. The converter allow
 If you have any questions, suggestions, or feedback, feel free to reach out to me at [your email address].
 
 You can also find me on:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn](https://www.linkedin.com/in/mihirhurwanth/)
 
 Thank you for visiting my Codecademy Projects Portfolio! Happy coding!
