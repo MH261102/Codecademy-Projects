@@ -7,6 +7,7 @@ Welcome to my Codecademy Projects Portfolio! This repository contains projects I
 1. [Introduction](#introduction)
 2. [Projects](#projects)
     - [Battleship Game](#battleship-game)
+    - [Blackjack Game](#blackjack-game)
     - [Rock, Paper, Scissors](#rock-paper-scissors)
     - [Unit Converter](#unit-converter)
 3. [How to Use](#how-to-use)
@@ -14,7 +15,7 @@ Welcome to my Codecademy Projects Portfolio! This repository contains projects I
 
 ## Introduction
 
-This repository is a compilation of projects I have worked on while learning coding through Codecademy. Currently, it contains Python implementations of the Battleship game, a Rock, Paper, Scissors game, and a Unit Converter.
+This repository is a compilation of projects I have worked on while learning coding through Codecademy. Currently, it contains Python implementations of the Battleship game, Blackjack game, Rock, Paper, Scissors game, and a Unit Converter.
 
 ## Projects
 
@@ -29,7 +30,20 @@ This project is a Python implementation of the classic Battleship game. The game
 - User input and basic game logic
 
 **Location:**  
-`Battleship/`
+`Battleship.py`
+
+### Blackjack Game
+
+**Description:**  
+This project is a Python implementation of the Blackjack game. The game allows a player to play against the computer in a simplified version of Blackjack.
+
+**Key Concepts:**
+- Python syntax and indentation
+- Lists and dictionaries
+- User input and game logic
+
+**Location:**  
+`Blackjack.py`
 
 ### Rock, Paper, Scissors
 
@@ -42,7 +56,7 @@ This project is a Python implementation of the Rock, Paper, Scissors game. The g
 - Random module
 
 **Location:**  
-`Rock_Paper_Scissors/`
+`Rock_Paper_Scissors.py`
 
 ### Unit Converter
 
@@ -55,7 +69,7 @@ This project is a Python implementation of a unit converter. The converter allow
 - User input and validation
 
 **Location:**  
-`Unit_Converter/`
+`Unit_Converter.py`
 
 ## How to Use
 
@@ -64,29 +78,35 @@ This project is a Python implementation of a unit converter. The converter allow
     git clone https://github.com/MH261102/Codecademy-Projects.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory and run the Python script for each project:
 
     For Battleship:
     ```bash
-    cd Codecademy-Projects/Battleship
-    python battleship.py
+    cd Codecademy-Projects
+    python Battleship.py
+    ```
+
+    For Blackjack:
+    ```bash
+    cd Codecademy-Projects
+    python Blackjack.py
     ```
 
     For Rock, Paper, Scissors:
     ```bash
-    cd Codecademy-Projects/Rock_Paper_Scissors
-    python rock_paper_scissors.py
+    cd Codecademy-Projects
+    python Rock_Paper_Scissors.py
     ```
 
     For Unit Converter:
     ```bash
-    cd Codecademy-Projects/Unit_Converter
-    python unit_converter.py
+    cd Codecademy-Projects
+    python Unit_Converter.py
     ```
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me at [your email address].
+If you have any questions, suggestions, or feedback, feel free to reach out to me at mhurwanth@gmail.com.
 
 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/mihirhurwanth/)
